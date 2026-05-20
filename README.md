@@ -79,15 +79,39 @@ Responsive React + Tailwind portfolio website showcasing projects and learning j
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beautygupta2801&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=beautygupta2801&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beautygupta2801&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=beautygupta2801&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=beautygupta2801&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=beautygupta2801&theme=tokyonight&hide_border=false"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beautygupta2801&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=beautygupta2801&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/beautygupta2801" />
 </p>
 
 ---
@@ -104,9 +128,8 @@ Responsive React + Tailwind portfolio website showcasing projects and learning j
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINK
-- LeetCode: YOUR_LINK
-- Codeforces: YOUR_LINK
+- LinkedIn: https://www.linkedin.com/in/beauty-gupta-24442b28a/
+- LeetCode: https://leetcode.com/u/beauty_gupta/
 - GitHub: https://github.com/beautygupta2801
 
 ---
